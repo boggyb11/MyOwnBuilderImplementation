@@ -1,0 +1,11 @@
+C:\Users\benjamin_fitzpatrick\source\repos\BensBuilderPattern\BensBuilderPattern\bin\Debug\netcoreapp2.1\BensBuilderPattern.deps.json
+C:\Users\benjamin_fitzpatrick\source\repos\BensBuilderPattern\BensBuilderPattern\bin\Debug\netcoreapp2.1\BensBuilderPattern.runtimeconfig.json
+C:\Users\benjamin_fitzpatrick\source\repos\BensBuilderPattern\BensBuilderPattern\bin\Debug\netcoreapp2.1\BensBuilderPattern.runtimeconfig.dev.json
+C:\Users\benjamin_fitzpatrick\source\repos\BensBuilderPattern\BensBuilderPattern\bin\Debug\netcoreapp2.1\BensBuilderPattern.dll
+C:\Users\benjamin_fitzpatrick\source\repos\BensBuilderPattern\BensBuilderPattern\bin\Debug\netcoreapp2.1\BensBuilderPattern.pdb
+C:\Users\benjamin_fitzpatrick\source\repos\BensBuilderPattern\BensBuilderPattern\obj\Debug\netcoreapp2.1\BensBuilderPattern.csprojAssemblyReference.cache
+C:\Users\benjamin_fitzpatrick\source\repos\BensBuilderPattern\BensBuilderPattern\obj\Debug\netcoreapp2.1\BensBuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\BensBuilderPattern\BensBuilderPattern\obj\Debug\netcoreapp2.1\BensBuilderPattern.AssemblyInfoInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\BensBuilderPattern\BensBuilderPattern\obj\Debug\netcoreapp2.1\BensBuilderPattern.AssemblyInfo.cs
+C:\Users\benjamin_fitzpatrick\source\repos\BensBuilderPattern\BensBuilderPattern\obj\Debug\netcoreapp2.1\BensBuilderPattern.dll
+C:\Users\benjamin_fitzpatrick\source\repos\BensBuilderPattern\BensBuilderPattern\obj\Debug\netcoreapp2.1\BensBuilderPattern.pdb
